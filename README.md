@@ -7,17 +7,20 @@ Além disso, é preciso destacar que os códigos HTML e CSS já estavam prontos 
 ## Descrição do Projeto:
 A partir de uma layout de sorteio de nomes para um amigo secreto, deveria ser implementado o acréscimo de nomes, levando em consideração os botões de adicionar e sortear e representar na tag UL
 
-## Dificuldades encontradas no Projeto:
+![Design sem nome (1)](https://github.com/user-attachments/assets/ee58c7cc-decf-46fc-ab7d-366ef12a73f1)
+
+
+## Desafios do Projeto:
 
 - A pouca familiaridade ao HTML como a tag UL (De acordo com (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) é uma lista não ordenada) fez com que o projeto demorasse um pouco mais a ser implementado até entender como seria o esquema a utilizar junto de suas funções. Pode ser percebido que segue um padrão de funções, no caso foi utilizado o document.getElementById('amigo');(linha 6).
 - O pouco conhecimento sobre funções do JavaScript como a função splice do JavaScript para retirada de elementos em um array (linha 40).
 - E a sintaxe de coloração para ficar visível e com maior destaque o amigo secreto sorteado , representado com o SPAN.
 
-  ## Tecnologias utilizadas:
+## Tecnologias utilizadas:
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "40" height ="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "40" height ="40"/>
           
           
 
