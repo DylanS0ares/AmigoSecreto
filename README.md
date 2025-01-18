@@ -7,8 +7,7 @@ Além disso, é preciso destacar que os códigos HTML e CSS já estavam prontos 
 ## Descrição do Projeto:
 A partir de uma layout de sorteio de nomes para um amigo secreto, deveria ser implementado o acréscimo de nomes, levando em consideração os botões de adicionar e sortear e representar na tag UL
 
-![Design sem nome (1)](https://github.com/user-attachments/assets/ee58c7cc-decf-46fc-ab7d-366ef12a73f1)
-
+![Rodando o Projeto](https://github.com/user-attachments/assets/f8f1c7d4-e75b-45eb-bd0c-8352ee9f3966)
 
 ## Desafios do Projeto:
 
