@@ -9,4 +9,6 @@ A partir de uma layout de sorteio de nomes para um amigo secreto, deveria ser im
 
 # Dificuldades encontradas no Projeto:
 
-A pouca familiaridade ao HTML como a tag UL (De acordo com (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) é uma lista não ordenada) fez com que o projeto demorasse um pouco mais a ser implementado até entender como seria o esquema a utilizar junto de suas funções. Pode ser percebido que segue um padrão de funções, no caso foi utilizado o document.getSelector('amigos');
+- A pouca familiaridade ao HTML como a tag UL (De acordo com (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) é uma lista não ordenada) fez com que o projeto demorasse um pouco mais a ser implementado até entender como seria o esquema a utilizar junto de suas funções. Pode ser percebido que segue um padrão de funções, no caso foi utilizado o document.getElementById('amigo');(linha 6).
+- 
+
